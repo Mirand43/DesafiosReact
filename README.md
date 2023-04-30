@@ -1,6 +1,6 @@
 # DesafioTweet
-Desenvolviemtento de interface do tweet
-Usando vitejs + typescript
+Desenvolviemtento de interface do tweet<br>
+usando vite + react + typescript
 
-npm install
+npm install <br>
 npm run dev
