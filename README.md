@@ -1,5 +1,5 @@
-# DesafioTweet
-Desenvolviemtento de interface do tweet<br>
+# DesafiosReact
+Desenvolviemtento de interfaces<br>
 usando vite + react + typescript
 
 npm install <br>
